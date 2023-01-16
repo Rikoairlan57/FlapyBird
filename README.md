@@ -1,1 +1,1 @@
-# FlapyBird
+# Flappy Bird (2D)
